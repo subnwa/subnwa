@@ -1,4 +1,7 @@
 ### Hi there 👋
+![status](https://dev.discordprofiles.me/badge/status/707403727912304641?simple=true)
+![vscode](https://dev.discordprofiles.me/badge/vscode/707403727912304641)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/707403727912304641)](https://dev.discordprofiles.me/openspotify/707403727912304641)
 
 <!--
 **subnwa/subnwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
