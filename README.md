@@ -3,7 +3,11 @@
 ![vscode](https://dev.discordprofiles.me/badge/vscode/707403727912304641)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/707403727912304641)](https://dev.discordprofiles.me/openspotify/707403727912304641)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=subnwa&theme=discord)](https://github.com/subnwa)
+## GitHub Stats
+
+<img src="https://media4.giphy.com/media/B5vBv8XsIs4h5BtFol/giphy.gif?cid=790b7611ce587fe68cc24f899bb78029d07ccd77a517fd04&rid=giphy.gif&ct=g">
+
+## Github Stats Graph
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subnwa&theme=github_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subnwa&theme=github_dark) 
