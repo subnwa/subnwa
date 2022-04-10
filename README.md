@@ -1,3 +1,4 @@
+<!--
 ## GitHub Stats
 
 <img src="https://media4.giphy.com/media/B5vBv8XsIs4h5BtFol/giphy.gif?cid=790b7611ce587fe68cc24f899bb78029d07ccd77a517fd04&rid=giphy.gif&ct=g">
